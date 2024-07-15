@@ -1,2 +1,3 @@
 # jspark
-Cli tool for crating Jira tickets in cooperation with LLMs
+CLI tool for crating Jira tickets in cooperation with LLMs.
+
